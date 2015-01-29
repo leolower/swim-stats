@@ -1,0 +1,29 @@
+<div class="module1">
+    <h1>Swim Stats</h1>
+
+    <form ng-submit="StatAddController.addValue(StatAddController.newValue)">
+        <input type="text" autofocus ng-model="StatAddController.newValue" placeholder="meters today...">
+    </form>
+
+    <div
+    area-chart
+    area-data='StatAddController.chart.data'
+    area-xkey='date'
+    area-ykeys='["meters"]'
+    area-labels='["Meters"]'>
+    </div>
+
+    <a href="" ng-click="StatAddController.clearStats()">clear</a>
+
+    <ul>
+        <li>
+            <label ng-click="StatAddController.changeOrder('date')">Date</label>
+            <label ng-click="StatAddController.changeOrder('value')">Meters</label>
+        </li>
+        <li ng-repeat="stat in StatAddController.stats | orderBy:StatAddController.order.value:StatAddController.order.reverse track by stat.id">
+            <input type="date" ng-model="stat.date" ng-change="StatAddController.updateStat(stat)" ng-delay="500">
+            <input type="text" ng-model="stat.value" ng-change="StatAddController.updateStat(stat)" ng-delay="500">
+            <a href="" ng-click="StatAddController.removeStat(stat)">X</a>
+        </li>
+    </ul>
+</div>

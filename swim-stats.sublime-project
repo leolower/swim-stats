@@ -1,0 +1,16 @@
+{
+    "folders":
+    [
+        {
+        "folder_exclude_patterns": [
+            "build",
+            "dist",
+            "logs",
+            "node_modules",
+            "vendor",
+        ],
+            "follow_symlinks": true,
+            "path": "."
+        }
+    ]
+}
