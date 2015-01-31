@@ -10,6 +10,6 @@
     "angular-ui-router": "~0.2.11",
     "angular-delay": "~0.1.2",
     "moment": "~2.9.0",
-    "angular-morris-chart": "~1.0.2"
+    "n3-line-chart": "~1.1.4"
   }
 }

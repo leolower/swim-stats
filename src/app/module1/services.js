@@ -1,10 +1,11 @@
 'use strict';
 
-function Stat(date, value) {
+function Stat(date, meters, duration) {
     return {
         id: Math.random(),
         date: date || new Date(),
-        value: value || ''
+        meters: meters || '',
+        duration: duration || 0
     };
 }
 
@@ -31,6 +32,8 @@ function StatService($http, $q) {
         query: function() {
             var deferred = $q.defer();
 
+            stats = stats || [];
+
             stats.forEach(function(stat) {
                 stat.date = new Date(stat.date);
             });
@@ -39,10 +42,11 @@ function StatService($http, $q) {
 
             return deferred.promise;
         },
-        create: function(date, value) {
+        create: function(date, meters, duration) {
             var deferred = $q.defer();
+            debugger
 
-            var newStat = Stat(date, value);
+            var newStat = Stat(date, meters, duration);
 
             stats.push(newStat);
 

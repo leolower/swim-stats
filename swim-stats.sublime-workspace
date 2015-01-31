@@ -1,1 +1,3157 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"forma",
+				"format"
+			],
+			[
+				"parse",
+				"parseInt (fn)"
+			],
+			[
+				"val_",
+				"val_0"
+			],
+			[
+				"update",
+				"updateChartDataPoints"
+			],
+			[
+				"ma",
+				"map (fn)"
+			],
+			[
+				"change",
+				"changeOrder('meters"
+			],
+			[
+				"ngc",
+				"ng-click	AngularJS"
+			],
+			[
+				"Stat",
+				"StatAddController"
+			],
+			[
+				"ff",
+				"ff-s	font-family: serif;"
+			],
+			[
+				"m",
+				"m-a	margin: auto;"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"clear",
+				"clearStats"
+			],
+			[
+				"Sta",
+				"StatAddController"
+			],
+			[
+				"get",
+				"getLast"
+			],
+			[
+				"eventis",
+				"eventIsPromo"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"new",
+				"new_status"
+			],
+			[
+				"stri",
+				"strict"
+			],
+			[
+				"butt",
+				"buttonIndex"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"should",
+				"shouldDisplayConfirmRejectButtons"
+			],
+			[
+				"dis",
+				"displayConfirmRejectButtons"
+			],
+			[
+				"promo",
+				"prometerAlto"
+			],
+			[
+				"reject",
+				"rejectEvent"
+			],
+			[
+				"cofi",
+				"confirmed"
+			],
+			[
+				"str",
+				"strict"
+			],
+			[
+				"ropt",
+				"rl.prompt"
+			],
+			[
+				"has",
+				"has_right_label"
+			],
+			[
+				"current",
+				"currentEvent"
+			],
+			[
+				"curre",
+				"currentSearchQuery"
+			],
+			[
+				"reje",
+				"rejected"
+			],
+			[
+				"subs",
+				"substr (fn)"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"displa",
+				"display"
+			],
+			[
+				"advance",
+				"advanced_search"
+			],
+			[
+				"displan",
+				"displaying"
+			],
+			[
+				"form",
+				"form_data"
+			],
+			[
+				"po",
+				"pos-s	position: static;"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"advanced",
+				"ngDir_advanced-search-form	AngularJS"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"scritsloa",
+				"scripts_loaded"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"reque",
+				"request_event_form"
+			],
+			[
+				"time",
+				"timezones (?)"
+			],
+			[
+				"timez",
+				"timezones"
+			],
+			[
+				"band",
+				"bandMembers"
+			],
+			[
+				"__",
+				"_BASE_URL_"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"default",
+				"default_form_data"
+			],
+			[
+				"acti",
+				"activity_type"
+			],
+			[
+				"activi",
+				"activity_type"
+			],
+			[
+				"Re",
+				"RegExp"
+			],
+			[
+				"request",
+				"request_ticket_form"
+			],
+			[
+				"req",
+				"request_ticket_form"
+			],
+			[
+				"show",
+				"showFlashMessage"
+			],
+			[
+				"ticket",
+				"ticket_id"
+			],
+			[
+				"user",
+				"user_created_the_event"
+			],
+			[
+				"hasrig",
+				"has_right_status"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"directive",
+				"directivelong	Angular.js"
+			],
+			[
+				"guest",
+				"guest_name"
+			],
+			[
+				"$cope",
+				"$scope"
+			],
+			[
+				"sort",
+				"sortGuestList"
+			],
+			[
+				"angula",
+				"angular.copy"
+			],
+			[
+				"map",
+				"_.map"
+			],
+			[
+				"filter",
+				"verbose_$filter	AngularJS"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"add",
+				"additional_day"
+			],
+			[
+				"con",
+				"confirm('If"
+			],
+			[
+				"calb",
+				"callback"
+			],
+			[
+				"place",
+				"placeholder-1"
+			],
+			[
+				"svg",
+				"svg_icon"
+			],
+			[
+				"appli",
+				"applications"
+			],
+			[
+				"selected",
+				"selectedFilters"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"true",
+				"truetype"
+			],
+			[
+				"event",
+				"event_id"
+			],
+			[
+				"tick",
+				"ticket_qty"
+			],
+			[
+				"seleceve",
+				"selectedArtistEvents"
+			],
+			[
+				"savere",
+				"saveRequestTicket"
+			],
+			[
+				"f",
+				"f	annonimous JS function"
+			],
+			[
+				"useprof",
+				"user_profile_id"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"pu",
+				"publish"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"conte",
+				"content-box"
+			],
+			[
+				"$inter",
+				"$interval	AngularJS"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"fiters",
+				"filters"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"direc",
+				"verbose_directive	AngularJS"
+			],
+			[
+				"sear",
+				"search_parameters"
+			],
+			[
+				"tour",
+				"tourmanager"
+			],
+			[
+				"sele",
+				"selectedFilters"
+			],
+			[
+				"sh",
+				"shows"
+			],
+			[
+				"all",
+				"all_events"
+			],
+			[
+				"direct",
+				"directive	Angular.js"
+			],
+			[
+				"rgba",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"$scpe",
+				"$scope"
+			],
+			[
+				"conf",
+				"config	AngularJS"
+			],
+			[
+				"mat",
+				"match('^http"
+			],
+			[
+				"db",
+				"debugger"
+			],
+			[
+				"index",
+				"index_file"
+			],
+			[
+				"Download",
+				"downloading"
+			],
+			[
+				"exter",
+				"external_css"
+			],
+			[
+				"congi",
+				"config"
+			],
+			[
+				"D",
+				"DSPArtists"
+			],
+			[
+				"remove",
+				"removeArtistFromRoster"
+			],
+			[
+				"artsts",
+				"artists"
+			],
+			[
+				"App",
+				"AppNotification"
+			],
+			[
+				"client",
+				"clientSecret"
+			],
+			[
+				"clien",
+				"clientId"
+			],
+			[
+				"uaa",
+				"uaa_config"
+			],
+			[
+				"cloud",
+				"cloud_services"
+			],
+			[
+				"env",
+				"envName"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"focus",
+				"focus_and_blur"
+			],
+			[
+				"input",
+				"input_name"
+			],
+			[
+				"sea",
+				"searchArtist"
+			],
+			[
+				"artis",
+				"artists"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"subsc",
+				"subscription"
+			],
+			[
+				"unsub",
+				"unsubscribe"
+			],
+			[
+				"uns",
+				"unsubscribe"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/module1/controllers.js",
+			"settings":
+			{
+				"buffer_size": 3380,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/module1/module.js",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/module1/services.js",
+			"settings":
+			{
+				"buffer_size": 2173,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/module1/partials/add.html",
+			"settings":
+			{
+				"buffer_size": 1589,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/module1/styles/common.less",
+			"settings":
+			{
+				"buffer_size": 912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "[{\"id\": 0.20951859699562192, \"date\": \"2015-01-28T01:15:55.899Z\", \"value\": \"600\", \"duration\": \"40\"}, {\"id\": 0.5198685280047357, \"date\": \"2015-01-30T15:15:42.539Z\", \"value\": \"650\", \"duration\": \"30\"}]",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix",
+				"name": "[{\"id\": 0.20951859699562192, \"date\": \"2015-01-28T0"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"report",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"camelcase",
+				"Convert Case: camelCase"
+			],
+			[
+				"reindex",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"ducate",
+				"File: Duplicate"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"snipp",
+				"Snippet: Angular HTML"
+			],
+			[
+				"keybuser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"lintview",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disablepa",
+				"Package Control: Disable Package"
+			],
+			[
+				"camel",
+				"Convert Case: camelCase"
+			],
+			[
+				"camelacs",
+				"Convert Case: camelCase"
+			],
+			[
+				"caecase",
+				"Convert Case: snake_case"
+			],
+			[
+				"camelcs",
+				"Convert Case: camelCase"
+			],
+			[
+				"linta",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"enablel",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disablel",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"llinter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"next",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"prefelinteruser",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"prefliner",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"preflinter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"enablee",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"case",
+				"Convert Case: dash-case"
+			],
+			[
+				"duca",
+				"File: Duplicate"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dash",
+				"Convert Case: dash-case"
+			],
+			[
+				"reinde",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"jscript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"angureindex",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"angreindex",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"pascalcase",
+				"Convert Case: PascalCase"
+			],
+			[
+				"pascalc",
+				"Convert Case: PascalCase"
+			],
+			[
+				"enablepa",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"rebuiindex",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"decode",
+				"StringEncode: URL Decode"
+			],
+			[
+				"urlenco",
+				"StringEncode: URL Encode"
+			],
+			[
+				"emmetimage",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"snipdoc",
+				"Snippet: createDocumentFragment"
+			],
+			[
+				"dockblo",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"escape",
+				"StringEncode: JSON Unescape"
+			],
+			[
+				"fix",
+				"FixMyJS"
+			],
+			[
+				"sortli",
+				"Sort Lines"
+			],
+			[
+				"previw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"key",
+				"List bound keys"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"fixmy",
+				"FixMyJS"
+			],
+			[
+				"base64",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"base",
+				"StringEncode: Base64 Encode"
+			],
+			[
+				"duate",
+				"File: Duplicate"
+			],
+			[
+				"cofee",
+				"Coffee: Compile File"
+			],
+			[
+				"uuid",
+				"Generate UUID v4"
+			],
+			[
+				"saveas",
+				"Project: Save As"
+			],
+			[
+				"node",
+				"Nodejs::User File Settings"
+			],
+			[
+				"foldall",
+				"Code Folding: Unfold All"
+			],
+			[
+				"emmetima",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"cofejs",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"coffee",
+				"Coffee: Fast Compile"
+			],
+			[
+				"dashcase",
+				"Convert Case: dash-case"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"camelc",
+				"Convert Case: camelCase"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pascalca",
+				"Convert Case: PascalCase"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"deen",
+				"StringEncode: HTML Deentitize"
+			],
+			[
+				"camelca",
+				"Convert Case: camelCase"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"gitpull",
+				"Git: Pull"
+			],
+			[
+				"emetimage",
+				"Emmet: Update Image Size"
+			],
+			[
+				"image",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"coff",
+				"Coffee: Fast Compile"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"angularjs",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"snake",
+				"Convert Case: snake_case"
+			],
+			[
+				"emmetag",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"tag",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"dashca",
+				"Convert Case: dash-case"
+			],
+			[
+				"dashcas",
+				"Convert Case: dash-case"
+			],
+			[
+				"disble",
+				"Package Control: Disable Package"
+			],
+			[
+				"angular",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"fakedata",
+				"Fake: date_time_ad"
+			],
+			[
+				"duplic",
+				"File: Duplicate"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"browserinte",
+				"Browser Integration: Launch Browser"
+			],
+			[
+				"inbrowser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"openinb",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"snippangul",
+				"Snippet: Angular HTML"
+			],
+			[
+				"urlencode",
+				"StringEncode: URL Encode"
+			],
+			[
+				"encode",
+				"StringEncode: URL Encode"
+			],
+			[
+				"chea",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"cheatshe",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"jaas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"hintopt",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"cheats",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markdchea",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"dicate",
+				"File: Duplicate"
+			],
+			[
+				"ticase",
+				"Convert Case: Title Case"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"testing",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"test",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"ucate",
+				"File: Duplicate"
+			],
+			[
+				"duplicate",
+				"File: Duplicate"
+			],
+			[
+				"glue",
+				"Snippet: Angular UnitTest:example"
+			],
+			[
+				"mdown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"sublimal",
+				"Sublimall: Upload"
+			],
+			[
+				"upcase",
+				"Convert Case: Upper Case"
+			],
+			[
+				"prev",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 303.0,
+		"history":
+		[
+			"clear",
+			"cls",
+			"fix",
+			"sublime.log_commands(True)",
+			"fixmyjs",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/leolower/Escritorio/swim-stats",
+		"/home/leolower/Escritorio/swim-stats/src",
+		"/home/leolower/Escritorio/swim-stats/src/app",
+		"/home/leolower/Escritorio/swim-stats/src/app/module1",
+		"/home/leolower/Escritorio/swim-stats/src/app/module1/partials",
+		"/home/leolower/Escritorio/swim-stats/src/app/module1/styles"
+	],
+	"file_history":
+	[
+		"/home/leolower/Escritorio/swim-stats/vendor/angular-ui-router/src/common.js",
+		"/home/leolower/Escritorio/swim-stats/vendor/angular-ui-router/src/urlRouter.js",
+		"/home/leolower/Escritorio/swim-stats/vendor/angular-ui-router/release/angular-ui-router.js",
+		"/home/leolower/Escritorio/swim-stats/vendor/angular-ui-router/src/stateFilters.js",
+		"/home/leolower/Escritorio/swim-stats/bower.json",
+		"/home/leolower/Escritorio/swim-stats/src/app/module1/module.js",
+		"/home/leolower/Escritorio/swim-stats/src/app/module1/controllers.js",
+		"/home/leolower/Escritorio/swim-stats/src/app/module1/partials/add.html",
+		"/home/leolower/Escritorio/swim-stats/src/app/app.js",
+		"/home/leolower/Escritorio/swim-stats/vendor/Chart.js/package.json",
+		"/home/leolower/Escritorio/swim-stats/gulpfile.js",
+		"/home/leolower/Escritorio/swim-stats/src/index.html",
+		"/home/leolower/Escritorio/swim-stats/src/app/module1/services.js",
+		"/home/leolower/Escritorio/swim-stats/vendor/angular-chart.js/bower.json",
+		"/home/leolower/Escritorio/swim-stats/vendor/Chart.js/Chart.js",
+		"/home/leolower/Escritorio/swim-stats/vendor/Chart.js/Chart.min.js",
+		"/home/leolower/Escritorio/swim-stats/vendor/Chart.js/bower.json",
+		"/home/leolower/Escritorio/swim-stats/src/app/module1/styles/common.less",
+		"/home/leolower/.jshintrc",
+		"/home/leolower/Escritorio/swim-stats/src/app/common/module.js",
+		"/home/leolower/Escritorio/swim-stats/src/app/common/common.spec.js",
+		"/home/leolower/Escritorio/swim-stats/package.json",
+		"/home/leolower/Escritorio/swim-stats/README.md",
+		"/home/leolower/Escritorio/swim-stats/src/app/config.js",
+		"/home/leolower/Escritorio/swim-stats/src/app/module1/module1.spec.js",
+		"/home/leolower/.config/sublime-text-3/Packages/User/snippets/js use strict.sublime-snippet",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/events-summary.html",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/common/services/phonegap-services.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/services/dsp-services.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/event-details.html",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/controllers/event-details.js",
+		"/home/leolower/Escritorio/compartir link con FE team",
+		"/home/leolower/Escritorio/compartir esto con FE",
+		"/home/leolower/Escritorio/DMS-1200.html",
+		"/home/leolower/Escritorio/compartir con altoros",
+		"/home/leolower/Escritorio/jspm_test/src/main.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/backend/controllers/tm-proxy.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/services/services.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/controllers/request-activity.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/controllers/controllers.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/vendor/angular-bootstrap/ui-bootstrap-tpls.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/filters/filters.js",
+		"/home/leolower/.config/sublime-text-3/Packages/User/snippets/Angular $q.sublime-snippet",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/controllers/event-form.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/vendor/angular-resource/angular-resource.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/vendor/angular-ui-router/src/state.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/common/controllers/controllers.js",
+		"/home/leolower/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/common/directives/directives.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/vendor/angular-route/angular-route.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/common/filters/filters.js",
+		"/home/leolower/.jscsrc",
+		"/home/leolower/.jscs.json",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/module.js",
+		"/home/leolower/Work/WMG/mobile-shell/.jscs.json",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/event-summary.html",
+		"/home/leolower/.config/sublime-text-3/Packages/User/snippets/annonimous JS function.sublime-snippet",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/directives/directives.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/controllers/advanced-search.js",
+		"/home/leolower/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/leolower/.config/sublime-text-3/Packages/User/openinbrowser.sublime-settings",
+		"/home/leolower/Escritorio/app.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/.bowerrc",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/.jscs.json",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/bower.json",
+		"/home/leolower/.config/sublime-text-3/Packages/SublimeLinter/package-metadata.json",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/search.html",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/controllers/artist-events-summary.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/styles/request-ticket.less",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/vendor/angular-ui-router/src/resolve.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/advanced-search-form.html",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/styles/advanced-search-form.less",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/backend/app.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/controllers/events-filter.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/vendor/angular-mocks/angular-mocks.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/common/services/services.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/request-ticket.html",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/styles/request-promo.less",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/styles/events-summary.less",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/controllers/request-ticket.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/request-activity.html",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/vendor/angular-ellipsis/src/angular-ellipsis.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/grunt.config.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/app-header.html",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/request-promo.html",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/styles/header.less",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tm_app.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/common/section-header.html",
+		"/home/leolower/Work/WMG/mobile-shell/WMG-tm.sublime-project",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/app-header2.html",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/controllers/tour-manager-request-promo.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/backend/controllers/pushIOS.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/styles/variables.less",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/common/styles/variables.less",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/vendor/angular-cordova/dist/ng-cordova.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/vendor/ngCordova/dist/ng-cordova.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/Gruntfile.js",
+		"/home/leolower/adt-bundle/sdk/platforms/android-19/skins/NEXUS-5/layout",
+		"/home/leolower/adt-bundle/sdk/platforms/android-19/skins/NEXUS-5/README.md",
+		"/home/leolower/adt-bundle/sdk/platforms/android-19/skins/NEXUS-5/hardware.ini",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/jscs.txt",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/phonegap-functions.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/spec/helper.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/.jscs",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/package.json",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/scripts/deploy-project.sh",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/index.html",
+		"/home/leolower/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/leolower/scripts/tolearn.sh",
+		"/home/leolower/Escritorio/rqtos-ssr-rodrigo.txt",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/common/module.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/common/styles/common.less",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/spec/lib/jasmine-1.2.0/jasmine-html.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/scripts/install-project.sh",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/styles/tm.less",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/common/common.spec.js",
+		"/home/leolower/Escritorio/angular-initial/gulpfile.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/index.html",
+		"/home/leolower/scripts/todo.sh",
+		"/home/leolower/Escritorio/conf.js",
+		"/home/leolower/.bash_aliases",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/partials/tourmanager/debug-placeholder.html",
+		"/home/leolower/Escritorio/preguntas-healthify-us.txt",
+		"/home/leolower/.config/sublime-text-3/Packages/User/snippets/Angular Scope:method.sublime-snippet",
+		"/home/leolower/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/leolower/Escritorio/jsop-watch.js",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/build/css/external_css.20150115124840.css",
+		"/home/leolower/Work/WMG/mobile-shell/mobile-tour-manager/src/frontend/src/js/tourmanager/module.spec.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 126.0,
+		"where_history":
+		[
+			"",
+			"*.js",
+			"*.less",
+			"*.html",
+			"",
+			"*.html",
+			"",
+			"*.css",
+			"*.less",
+			"",
+			"*.less",
+			"",
+			"*.less",
+			"",
+			"*.less",
+			"",
+			"*.js",
+			"",
+			"*.less",
+			"",
+			"*.html",
+			"*.htl",
+			"",
+			"*.html",
+			"",
+			"*.less",
+			"",
+			"/home/leolower/Work/WMG/mobile-shell/src/webapp/backend/routes",
+			"",
+			"*.js",
+			"",
+			"*.json",
+			"",
+			"*.less",
+			"",
+			"*.less",
+			"",
+			"*.html",
+			"",
+			"*.html",
+			"",
+			"/home/leolower/Work/WMG/mobile-shell/src/webapp/src",
+			"",
+			"/home/leolower/Work/WMG/mobile-shell/src/webapp/src",
+			"",
+			"*.js",
+			"",
+			"/home/leolower/Work/WMG/mobile-shell/src/frontend/www/src",
+			"",
+			"/home/leolower/Work/WMG/mobile-shell/src/frontend",
+			"",
+			"/home/leolower/Work/WMG/mobile-shell/src/frontend/www/partials",
+			"",
+			"/home/leolower/Work/WMG/mobile-shell/src/frontend/www/src",
+			"",
+			"<open files>",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.sql",
+			"+.sql",
+			"",
+			"*.js",
+			"",
+			"/home/leolower/www/founderdating/members",
+			"",
+			"<open files>",
+			"",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"number",
+			"value",
+			"stat",
+			"Stat",
+			"value",
+			"StatService",
+			"newDuration",
+			"newmeter",
+			"newValue",
+			"momen",
+			";",
+			"$scope.",
+			"$scope.series",
+			"$scope.",
+			"val_0",
+			"updateChartDataPoints",
+			"pe=\"date",
+			"pe=\"date\" ng-model=\"stat.date\" ng-change=\"StatAddController.updateStat(stat)\"",
+			"t('X",
+			"updateChartDataPoints",
+			"ints(st",
+			"otherValue",
+			"min",
+			"y2:",
+			"order",
+			";\n",
+			"karma",
+			"use",
+			"strict",
+			"angular-initial",
+			"Module1Controller",
+			"Module1Service",
+			"stric",
+			"Module1Controller",
+			"tmHistoryService.add",
+			"debugger",
+			"getLast",
+			"shouldDisplayConfirmRejectButtons",
+			"rejection_reason",
+			"makePending",
+			"displayChangeStatusButtons && ",
+			"displayConfirmRejectButtons",
+			"userRoles",
+			"reload(",
+			"reload",
+			"Chore",
+			"Story",
+			"Chore",
+			"Bug",
+			"Story",
+			"Chore",
+			"Story",
+			"Bug",
+			"rejection",
+			"confirmation",
+			"rejection",
+			"debug",
+			"$state",
+			"reload",
+			"AppNotification",
+			"prometerAlto",
+			"contactError",
+			"contact",
+			".defer",
+			"PhonegapDialogs",
+			"event_id",
+			"req_promo",
+			"events_update",
+			"type",
+			"PhonegapDialogs.",
+			"phonegapdialo",
+			"r.pro",
+			"maximumLineLength",
+			"requireCamelCaseOrUpperCaseIdentifiers",
+			"requireOperatorBeforeLineBreak",
+			"requireCurlyBraces",
+			"safeContextKeyword",
+			"disallowImplicitTypeConversion",
+			"disallowSpacesInsideObjectBrackets",
+			"disallowKeywords",
+			"validateIndentation",
+			"validateLineBreaks",
+			"maximumLineLength",
+			"requireParenthesesAroundIIFE",
+			"fileExtensions",
+			"preset",
+			"disallowKeywords",
+			"scope.currentUse.profiler",
+			"eventis",
+			"hasTheRightLabel",
+			"userRoles",
+			"getCurrentUser",
+			"profile",
+			"currentuserp",
+			"DSPUserProfile",
+			"user",
+			"one_label_equals_company",
+			"several_labels_including_company",
+			"current_user_profile",
+			"no_label_and_no_company",
+			"has_right_label",
+			"label",
+			"event",
+			"ADR",
+			"event_type",
+			"processed_days",
+			"muted",
+			"tmRetainScrollService",
+			"scroll",
+			"rejected",
+			"summa",
+			"muted",
+			"processed_days",
+			"allLoaded",
+			"isAllLoaded",
+			"findEvents",
+			"getEvents",
+			"allLoaded",
+			"30",
+			"//",
+			"= ev.",
+			"ev.",
+			" ==",
+			"tmEventsSearch",
+			".main-container + .section-footer",
+			".extra-screens",
+			"0a4-d72d-5c6d-97f1-d5d820f1d60",
+			"3fd351-3713-42c3-9eab-e9ac60aef5de"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"newMeters",
+			"swim-stats",
+			"StatAddController",
+			"StatService",
+			"unconfirmEvent",
+			"displayChangeStatusButtons",
+			"event",
+			"request_event_form",
+			"form_data.XYZ_event",
+			"forms.request_ticket_form",
+			"integerInput",
+			"integer-input",
+			"index.html",
+			"LeftNavCtrl",
+			"nav.active",
+			"font-weight: 400;",
+			"font-weight: 600;",
+			"cache clear",
+			"additional_details",
+			"Additional Details",
+			"",
+			"--registry http://npm.dspdev.wmg.com:8888",
+			"saveFilters",
+			"loadEventsForArtistCard",
+			"\"../../common/variables.less\"",
+			"DSPMobileShell.TMApp",
+			"https://mobile-shell.dsp.wmg.com/",
+			"mobile-shell.dsp.wmg.com",
+			"warning",
+			"required-warning",
+			"$scope.artistRosterList",
+			"selectedArtist.rotated",
+			"selectedArtistEvents.promosByStatus",
+			"<div class=\"topcoat-navigation-bar\" hm-swiperight=\"goBack()\">        <a ng-hide=\"hideBackButton\" href=\"\" class=\"back-button\" ng-click=\"goBack()\"><</a>\n",
+			"TourManagerDebugCtrl",
+			"colorGrayLight",
+			"WMG Mobile",
+			"searchTerm",
+			"request-search-from-header",
+			"pp-header::request-artist-search-",
+			"cookie-check",
+			"app-header",
+			"colorBrandLinkHover",
+			"colorBrandPrimary",
+			"PhoneContacts.createEmptyContact(",
+			"DPSContacts",
+			"MOBILESHELL env ok.",
+			"data.filtered",
+			"data.unfiltered",
+			"pushAction",
+			"MOBILESHELL",
+			"push-registration-client-saved",
+			"push-registration-client-registered",
+			"push-registration-completed",
+			"savePushClientId",
+			"registerPushClient",
+			"registerPushStep1",
+			"registerPushStep2",
+			"'push-registered-step-1'",
+			"mobile.dspdev.wmg.com",
+			"poc-mobile.mobile-dev.dspdev.wmg.com",
+			"registerPushNotifications",
+			"DSPMobileShell",
+			"com.wmg.dpsmobileshell",
+			"Device",
+			"device",
+			"index.html",
+			"device-dpi",
+			"OnDeviceReady.execute(",
+			"OnDeviceReady",
+			"cordovaReady( f",
+			".controller('CameraCtrl', function($scope, cordovaReady) {",
+			"mobile-shell-poc",
+			"NgCordovaIndexCtrl",
+			"cordova",
+			"Camera",
+			"",
+			"mobile-shell-poc",
+			"IndexCtrl",
+			"['ngTouch', 'ngRoute']",
+			"gulp",
+			"data ",
+			"field",
+			"skip</a>",
+			"rally.png",
+			"<div class=\"sprite sprite-hiring\"></div>",
+			"<a href=\"https://twitter.com/#!/founderdating\" target=\"_blank\"> <div class=\"sprite sprite-twitter\"></div> </a>",
+			"error_reporting(0);",
+			"error_reporting($1;error_reporting(E_ALL ^ E_DEPRECATED); ",
+			"desasociarCliente",
+			"cliente",
+			"clientes",
+			"ClientesService",
+			"ctrl+alt",
+			"MyApp",
+			"visibleDataLength",
+			"ClientesFormCtrl",
+			"                        </",
+			"new",
+			"TitularesService",
+			"ClienteService",
+			"Clientes",
+			"clientes"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/module1/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3380,
+						"regions":
+						{
+							"mark":
+							{
+								"flags": 144,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										745,
+										745
+									]
+								],
+								"scope": "mark"
+							},
+							"mcol_4682B4FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1457,
+										1466
+									]
+								],
+								"scope": "mcol_4682B4FF"
+							},
+							"mcol_FF6161FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1667,
+										1674
+									]
+								],
+								"scope": "mcol_FF6161FF"
+							}
+						},
+						"selection":
+						[
+							[
+								2286,
+								2286
+							]
+						],
+						"settings":
+						{
+							"colorhighlighter": true,
+							"colorhighlighter_0x_hex_values": true,
+							"colorhighlighter_hex_values": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 21.0,
+						"translation.y": 1232.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/module1/module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"colorhighlighter": true,
+							"colorhighlighter_0x_hex_values": true,
+							"colorhighlighter_hex_values": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/module1/services.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2173,
+						"regions":
+						{
+							"mark":
+							{
+								"flags": 144,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										729,
+										729
+									]
+								],
+								"scope": "mark"
+							}
+						},
+						"selection":
+						[
+							[
+								1036,
+								1036
+							]
+						],
+						"settings":
+						{
+							"colorhighlighter": true,
+							"colorhighlighter_0x_hex_values": true,
+							"colorhighlighter_hex_values": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/module1/partials/add.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								963,
+								963
+							]
+						],
+						"settings":
+						{
+							"colorhighlighter": true,
+							"colorhighlighter_0x_hex_values": true,
+							"colorhighlighter_hex_values": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/module1/styles/common.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 912,
+						"regions":
+						{
+							"mcol_444444FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										122,
+										129
+									],
+									[
+										279,
+										286
+									]
+								],
+								"scope": "mcol_444444FF"
+							},
+							"mcol_CCCCCCFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										344,
+										351
+									]
+								],
+								"scope": "mcol_CCCCCCFF"
+							}
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"colorhighlighter": true,
+							"colorhighlighter_0x_hex_values": true,
+							"colorhighlighter_hex_values": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 399.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+							"mark":
+							{
+								"flags": 144,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										179,
+										179
+									]
+								],
+								"scope": "mark"
+							}
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"auto_name": "[{\"id\": 0.20951859699562192, \"date\": \"2015-01-28T0",
+							"colorhighlighter": true,
+							"colorhighlighter_0x_hex_values": true,
+							"colorhighlighter_hex_values": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "swim-stats.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"eventdetails",
+				"src/frontend/src/partials/tourmanager/event-details.html"
+			],
+			[
+				"tmproxy",
+				"src/backend/controllers/tm-proxy.js"
+			],
+			[
+				"eventdetail",
+				"src/frontend/src/partials/tourmanager/event-details.html"
+			],
+			[
+				"eventsumma",
+				"src/frontend/src/partials/tourmanager/event-summary.html"
+			],
+			[
+				"tmmodulejs",
+				"src/frontend/src/js/tourmanager/module.js"
+			],
+			[
+				"eventdetajs",
+				"src/frontend/src/js/tourmanager/controllers/event-details.js"
+			],
+			[
+				"bowerr",
+				".bowerrc"
+			],
+			[
+				"searchjs",
+				"src/frontend/src/js/tourmanager/controllers/advanced-search.js"
+			],
+			[
+				"tmpro",
+				"src/backend/controllers/tm-proxy.js"
+			],
+			[
+				"search",
+				"src/frontend/src/partials/tourmanager/search.html"
+			],
+			[
+				"eventss",
+				"src/frontend/src/partials/tourmanager/events-summary.html"
+			],
+			[
+				"advsehtml",
+				"src/frontend/src/partials/tourmanager/advanced-search-form.html"
+			],
+			[
+				"eventjs",
+				"src/frontend/src/js/tourmanager/controllers/artist-events-summary.js"
+			],
+			[
+				"reqtickethtml",
+				"src/frontend/src/partials/tourmanager/request-ticket.html"
+			],
+			[
+				"tickethtml",
+				"src/frontend/src/partials/tourmanager/request-ticket.html"
+			],
+			[
+				"appheader",
+				"src/frontend/src/partials/tourmanager/app-header.html"
+			],
+			[
+				"promohtml",
+				"src/frontend/src/partials/tourmanager/request-promo.html"
+			],
+			[
+				"gruncon",
+				"grunt.config.js"
+			],
+			[
+				"gruntjs",
+				"grunt.config.js"
+			],
+			[
+				"eventssumma",
+				"src/frontend/src/partials/tourmanager/events-summary.html"
+			],
+			[
+				"apphea",
+				"src/frontend/src/partials/tourmanager/app-header.html"
+			],
+			[
+				"c/frontend/spec/helper.j",
+				"src/frontend/spec/helper.js"
+			],
+			[
+				"jscs",
+				".jscs.json"
+			],
+			[
+				"gruntconfjs",
+				"grunt.config.js"
+			],
+			[
+				"directjs",
+				"src/frontend/src/js/common/directives/directives.js"
+			],
+			[
+				"contorlerjs",
+				"src/frontend/src/js/common/controllers/controllers.js"
+			],
+			[
+				"packjson",
+				"package.json"
+			],
+			[
+				"comondirectivejs",
+				"src/frontend/src/js/common/directives/directives.js"
+			],
+			[
+				"html",
+				"src/frontend/src/index.html"
+			],
+			[
+				"indexhtml",
+				"src/frontend/src/index.html"
+			],
+			[
+				"promojs",
+				"src/frontend/src/js/tourmanager/controllers/tour-manager-request-promo.js"
+			],
+			[
+				"ticket",
+				"src/frontend/src/partials/tourmanager/request-ticket.html"
+			],
+			[
+				"reqa",
+				"src/frontend/src/partials/tourmanager/request-activity.html"
+			],
+			[
+				"reqactjs",
+				"src/frontend/src/js/tourmanager/controllers/request-activity.js"
+			],
+			[
+				"commonless",
+				"src/frontend/src/js/common/styles/common.less"
+			],
+			[
+				"tmindexhtl",
+				"src/frontend/src/partials/tourmanager/index.html"
+			],
+			[
+				"module",
+				"src/frontend/src/js/tourmanager/module.js"
+			],
+			[
+				"tmcontrolerjs",
+				"src/frontend/src/js/tourmanager/controllers/controllers.js"
+			],
+			[
+				"tmindexhtml",
+				"src/frontend/src/partials/tourmanager/index.html"
+			],
+			[
+				"appheaderhtl",
+				"src/frontend/src/partials/tourmanager/app-header.html"
+			],
+			[
+				"advsear",
+				"src/frontend/src/js/tourmanager/styles/advanced-search-form.less"
+			],
+			[
+				"searhtml",
+				"src/frontend/src/partials/tourmanager/advanced-search-form.html"
+			],
+			[
+				"tmservjs",
+				"src/frontend/src/js/tourmanager/services/services.js"
+			],
+			[
+				"comonservijs",
+				"src/frontend/src/js/common/services/services.js"
+			],
+			[
+				"searchhtml",
+				"src/frontend/src/partials/tourmanager/search.html"
+			],
+			[
+				"advsearcf",
+				"src/frontend/src/partials/tourmanager/advanced-search-form.html"
+			],
+			[
+				"contrller",
+				"src/frontend/src/js/tourmanager/controllers/controllers.js"
+			],
+			[
+				"advanced-search-formles",
+				"src/frontend/src/js/tourmanager/styles/advanced-search-form.less"
+			],
+			[
+				"filtertml",
+				"src/frontend/src/partials/tourmanager/events-filter.html"
+			],
+			[
+				"filterjs",
+				"src/frontend/src/js/tourmanager/controllers/events-filter.js"
+			],
+			[
+				"expanded-sectio",
+				"src/frontend/src/partials/tourmanager/expanded-section.html"
+			],
+			[
+				"reqpromoht",
+				"src/frontend/src/partials/tourmanager/request-promo.html"
+			],
+			[
+				"reqpromohtml",
+				"src/frontend/src/partials/tourmanager/request-promo.html"
+			],
+			[
+				"filterhtml",
+				"src/frontend/src/partials/tourmanager/events-filter.html"
+			],
+			[
+				"events-filter.html",
+				"src/frontend/src/partials/tourmanager/events-filter.html"
+			],
+			[
+				"eventssu",
+				"src/frontend/src/partials/tourmanager/events-summary.html"
+			],
+			[
+				"controlerjs",
+				"src/frontend/src/js/tourmanager/controllers/controllers.js"
+			],
+			[
+				"partialtmhtml",
+				"src/frontend/src/partials/tourmanager/error-maintenance.html"
+			],
+			[
+				"tmdirectivesjs",
+				"src/frontend/src/js/tourmanager/directives/directives.js"
+			],
+			[
+				"serverjs",
+				"src/backend/server.js"
+			],
+			[
+				"reqpromojs",
+				"src/frontend/src/js/tourmanager/controllers/tour-manager-request-promo.js"
+			],
+			[
+				"eventform",
+				"src/frontend/src/js/tourmanager/controllers/event-form.js"
+			],
+			[
+				"repromojs",
+				"src/frontend/src/js/tourmanager/controllers/tour-manager-request-promo.js"
+			],
+			[
+				"reqpromo",
+				"src/frontend/src/partials/tourmanager/request-promo.html"
+			],
+			[
+				"reqactiv",
+				"src/frontend/src/partials/tourmanager/request-activity.html"
+			],
+			[
+				"activi",
+				"src/frontend/src/js/tourmanager/controllers/request-activity.js"
+			],
+			[
+				"reqacjs",
+				"src/frontend/src/js/tourmanager/controllers/request-activity.js"
+			],
+			[
+				"reqpro",
+				"src/frontend/src/partials/tourmanager/request-promo.html"
+			],
+			[
+				"deploysh",
+				"scripts/deploy-project.sh"
+			],
+			[
+				"reqac",
+				"src/frontend/src/partials/tourmanager/request-activity.html"
+			],
+			[
+				"reqactivjs",
+				"src/frontend/src/js/tourmanager/controllers/request-activity.js"
+			],
+			[
+				"eventdeta",
+				"src/frontend/src/js/tourmanager/controllers/event-details.js"
+			],
+			[
+				"activihtml",
+				"src/frontend/src/partials/tourmanager/request-activity.html"
+			],
+			[
+				"tmcon",
+				"src/frontend/src/js/tourmanager/controllers/controllers.js"
+			],
+			[
+				"reqacthtml",
+				"src/frontend/src/partials/tourmanager/request-activity.html"
+			],
+			[
+				"modulejs",
+				"src/frontend/src/js/tourmanager/module.js"
+			],
+			[
+				"directless",
+				"src/frontend/src/js/common/styles/directives.less"
+			],
+			[
+				"tmrpjs",
+				"src/frontend/src/js/tourmanager/controllers/tour-manager-request-promo.js"
+			],
+			[
+				"guestlisthtml",
+				"src/frontend/src/partials/tourmanager/guest-list.html"
+			],
+			[
+				"reqticket",
+				"src/frontend/src/partials/tourmanager/request-ticket.html"
+			],
+			[
+				"reqticketjs",
+				"src/frontend/src/js/tourmanager/controllers/request-ticket.js"
+			],
+			[
+				"mobile-typeahead.htm",
+				"src/frontend/src/partials/common/mobile-typeahead.html"
+			],
+			[
+				"reqticjs",
+				"src/frontend/src/js/tourmanager/controllers/request-ticket.js"
+			],
+			[
+				"reqpromohml",
+				"src/frontend/src/partials/tourmanager/request-promo.html"
+			],
+			[
+				"retickjs",
+				"src/frontend/src/js/tourmanager/controllers/request-ticket.js"
+			],
+			[
+				"modul",
+				"src/frontend/src/js/tourmanager/module.js"
+			],
+			[
+				"dspservjs",
+				"src/frontend/src/js/tourmanager/services/dsp-services.js"
+			],
+			[
+				"tmpr",
+				"src/backend/controllers/tm-proxy.js"
+			],
+			[
+				"guetlisthtml",
+				"src/frontend/src/partials/tourmanager/guest-list.html"
+			],
+			[
+				"ticketjs",
+				"src/frontend/src/js/tourmanager/controllers/request-ticket.js"
+			],
+			[
+				"push",
+				"src/backend/controllers/pushIOS.js"
+			],
+			[
+				"eventsu",
+				"src/frontend/src/partials/tourmanager/event-summary.html"
+			],
+			[
+				"eventsummary",
+				"src/frontend/src/partials/tourmanager/event-summary.html"
+			],
+			[
+				"eventssummary",
+				"src/frontend/src/partials/tourmanager/events-summary.html"
+			],
+			[
+				"tmjs",
+				"src/frontend/src/js/tourmanager/controllers/tour-manager-request-promo.js"
+			],
+			[
+				"instalproj",
+				"scripts/install-project.sh"
+			],
+			[
+				"tmreqprojs",
+				"src/frontend/src/js/tourmanager/controllers/tour-manager-request-promo.js"
+			],
+			[
+				"requehtm",
+				"src/frontend/src/partials/tourmanager/request-promo.html"
+			],
+			[
+				"comonmodule",
+				"src/frontend/src/js/common/module.js"
+			],
+			[
+				"services",
+				"src/frontend/src/js/tourmanager/services/dsp-services.js"
+			],
+			[
+				"comondirectjs",
+				"src/frontend/src/js/common/directives/directives.js"
+			],
+			[
+				"eventdetahtml",
+				"src/frontend/src/partials/tourmanager/event-details.html"
+			],
+			[
+				"eventsumahtml",
+				"src/frontend/src/partials/tourmanager/event-summary.html"
+			],
+			[
+				"eventsumajs",
+				"src/frontend/src/js/tourmanager/controllers/artist-events-summary.js"
+			],
+			[
+				"evendetjs",
+				"src/frontend/src/js/tourmanager/controllers/event-details.js"
+			],
+			[
+				"evendetail",
+				"src/frontend/src/partials/tourmanager/event-details.html"
+			],
+			[
+				"tmindex",
+				"src/frontend/src/partials/tourmanager/index.html"
+			],
+			[
+				"tmcntrojs",
+				"src/frontend/src/js/tourmanager/controllers/controllers.js"
+			],
+			[
+				"events-filter",
+				"src/frontend/src/js/tourmanager/controllers/events-filter.js"
+			],
+			[
+				"eventssumjs",
+				"src/frontend/src/js/tourmanager/controllers/artist-events-summary.js"
+			],
+			[
+				"eventssuma",
+				"src/frontend/src/partials/tourmanager/events-summary.html"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"tmless",
+				"src/frontend/src/js/tourmanager/styles/tm.less"
+			],
+			[
+				"phonejs",
+				"src/frontend/src/js/phonegap-functions.js"
+			],
+			[
+				"requejs",
+				"src/frontend/src/js/tourmanager/controllers/request-ticket.js"
+			],
+			[
+				"guestless",
+				"src/frontend/src/js/tourmanager/styles/guest-list.less"
+			],
+			[
+				"directi",
+				"src/frontend/src/js/tourmanager/directives/directives.js"
+			],
+			[
+				"directives",
+				"src/frontend/src/js/common/directives/directives.js"
+			],
+			[
+				"guelijs",
+				"src/frontend/src/js/tourmanager/controllers/guest-list.js"
+			],
+			[
+				"guestlisthtm",
+				"src/frontend/src/partials/tourmanager/guest-list.html"
+			],
+			[
+				"eventdehtml",
+				"src/frontend/src/partials/tourmanager/event-details.html"
+			],
+			[
+				"guestlistjs",
+				"src/frontend/src/js/tourmanager/controllers/guest-list.js"
+			],
+			[
+				"packagejson",
+				"package.json"
+			],
+			[
+				"logger",
+				"src/backend/logger.js"
+			],
+			[
+				"appjs",
+				"src/backend/app.js"
+			],
+			[
+				"gruntconf",
+				"grunt.config.js"
+			],
+			[
+				"reqpomoless",
+				"src/frontend/src/js/tourmanager/styles/request-promo.less"
+			],
+			[
+				"guestlist",
+				"src/frontend/src/partials/tourmanager/guest-list.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"tm",
+				"~/Work/WMG/mobile-shell/WMG-tm.sublime-project"
+			],
+			[
+				"initial",
+				"~/www/Angular-initial.sublime-project"
+			],
+			[
+				"opciones",
+				"~/www/opciones/Opciones.sublime-project"
+			],
+			[
+				"initi",
+				"~/www/Angular-initial.sublime-project"
+			],
+			[
+				"shell",
+				"~/Work/WMG/mobile-shell/WMG-shell.sublime-project"
+			],
+			[
+				"opcione",
+				"~/www/opciones/Opciones.sublime-project"
+			],
+			[
+				"questa",
+				"~/www/Questa.sublime-project"
+			],
+			[
+				"shel",
+				"~/Work/WMG/mobile-shell/WMG-shell.sublime-project"
+			],
+			[
+				"mobileshell",
+				"~/Work/WMG/mobile-shell/WMG-shell.sublime-project"
+			],
+			[
+				"mobi",
+				"~/www/carta/CartaMobile.sublime-project"
+			],
+			[
+				"opc",
+				"~/www/opciones/Opciones.sublime-project"
+			],
+			[
+				"catam",
+				"~/www/carta/CartaMobile.sublime-project"
+			],
+			[
+				"cartam",
+				"~/www/carta/CartaMobile.sublime-project"
+			],
+			[
+				"carta",
+				"~/www/carta/CartaMobile.sublime-project"
+			],
+			[
+				"sh",
+				"~/Work/WMG/mobile-shell/WMG-shell.sublime-project"
+			],
+			[
+				"fusion",
+				"~/Work/WMG/fusion-tm.sublime-project"
+			],
+			[
+				"deply",
+				"~/Work/WMG/DeploymentAll.sublime-project"
+			],
+			[
+				"deplo",
+				"~/Work/WMG/DeploymentAll.sublime-project"
+			],
+			[
+				"shll",
+				"~/Work/WMG/mobile-shell/WMG-shell.sublime-project"
+			],
+			[
+				"deploya",
+				"~/Work/WMG/DeploymentAll.sublime-project"
+			],
+			[
+				"deployall",
+				"~/Work/WMG/DeploymentAll.sublime-project"
+			],
+			[
+				"op",
+				"~/Escritorio/opciones/Opciones.sublime-project"
+			],
+			[
+				"sso",
+				"~/Work/WMG/SSO-UAA.sublime-project"
+			],
+			[
+				"ssouaa",
+				"~/Work/WMG/SSO-UAA.sublime-project"
+			],
+			[
+				"node",
+				"~/Escritorio/node-cf-console/node-cf-console.sublime-workspace"
+			],
+			[
+				"cfcon",
+				"~/Escritorio/node-cf-console/node-cf-console.sublime-workspace"
+			],
+			[
+				"wmg",
+				"~/Work/WMG/mobile-shell/WMG.sublime-project"
+			],
+			[
+				"uaa",
+				"~/Work/WMG/SSO-UAA.sublime-project"
+			],
+			[
+				"cf",
+				"~/Escritorio/node-cf-console/node-cf-console.sublime-project"
+			],
+			[
+				"depl",
+				"~/Work/WMG/DeploymentAll.sublime-project"
+			],
+			[
+				"o",
+				"~/Escritorio/opciones/Opciones.sublime-project"
+			],
+			[
+				"opcion",
+				"~/Escritorio/opciones/Opciones.sublime-project"
+			],
+			[
+				"apl",
+				"~/www/apl/APL.sublime-project"
+			],
+			[
+				"",
+				"~/www/IndigoWeb.sublime-project"
+			],
+			[
+				"loteo",
+				"~/www/loteo/loteo.sublime-project"
+			],
+			[
+				"hdv",
+				"~/www/hdv/HDV.sublime-project"
+			],
+			[
+				"indigo",
+				"~/www/IndigoWeb.sublime-project"
+			],
+			[
+				"poc",
+				"~/Escritorio/poc/POC.sublime-project"
+			],
+			[
+				"android",
+				"~/Escritorio/angular-android.sublime-project"
+			],
+			[
+				"fd",
+				"~/Escritorio/FD.sublime-project"
+			],
+			[
+				"gitpi",
+				"~/Escritorio/gitpic/GitPic.sublime-project"
+			],
+			[
+				"tdd",
+				"~/Escritorio/tdd/TDD.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"addval",
+				"addValue"
+			],
+			[
+				"statserv",
+				"StatService"
+			],
+			[
+				"StatService",
+				"StatService"
+			],
+			[
+				"should",
+				"shouldDisplayConfirmRejectButtons"
+			],
+			[
+				"promp",
+				"prompt"
+			],
+			[
+				"clearreload",
+				"clearAndReload"
+			],
+			[
+				"setScrollPos",
+				"setScrollPos"
+			],
+			[
+				"setStartTime",
+				"setStartTime"
+			],
+			[
+				"displaysearchform",
+				"displaySearchForm"
+			],
+			[
+				"relayou",
+				"reLayoutOnFocusBlur"
+			],
+			[
+				"displaySearchForm",
+				"displaySearchForm"
+			],
+			[
+				"resetcrite",
+				"resetCriteria"
+			],
+			[
+				"extra",
+				"extra-screens"
+			],
+			[
+				"addad",
+				"addAdditionalContact"
+			],
+			[
+				"filters",
+				"filters"
+			],
+			[
+				"reload",
+				"reloadArtistRoster"
+			],
+			[
+				"resetForm",
+				"resetForm"
+			],
+			[
+				"cancelact",
+				"cancelActivity"
+			],
+			[
+				"cancel",
+				"cancelRequestActivity"
+			],
+			[
+				"redirectIfNeeded",
+				"redirectIfNeeded"
+			],
+			[
+				"getevent",
+				"getEvent"
+			],
+			[
+				"setformwi",
+				"setFormWithEvent"
+			],
+			[
+				"cancelpromo",
+				"cancelPromo"
+			],
+			[
+				"cancelRequestActivity",
+				"cancelRequestActivity"
+			],
+			[
+				"goBack",
+				"goBack"
+			],
+			[
+				"setformwit",
+				"setFormWithEvent"
+			],
+			[
+				"removeMarket",
+				"removeMarket"
+			],
+			[
+				"openGuestList",
+				"openGuestList"
+			],
+			[
+				"incrementTicketQty",
+				"incrementTicketQty"
+			],
+			[
+				"shouldShowWarnFor",
+				"shouldShowWarnFor"
+			],
+			[
+				"userHasPermissionToUpdate",
+				"userHasPermissionToUpdate"
+			],
+			[
+				"redirectToRequestTicket",
+				"redirectToRequestTicket"
+			],
+			[
+				"savetick",
+				"saveRequestTicket"
+			],
+			[
+				"tm_url",
+				"tm_url"
+			],
+			[
+				"eventdeta",
+				"goToEventDetails"
+			],
+			[
+				"toggleBandMembersSelector",
+				"toggleBandMembersSelector"
+			],
+			[
+				"evetdeta",
+				"goToEventDetails"
+			],
+			[
+				"selectArtist",
+				"selectArtist"
+			],
+			[
+				"requestPromo",
+				"requestPromo"
+			],
+			[
+				"reqpromo",
+				"requestPromo"
+			],
+			[
+				"goToEventDetails",
+				"goToEventDetails"
+			],
+			[
+				"getEventsSummary",
+				"getEventsSummary"
+			],
+			[
+				"hasContactDetails",
+				"hasContactDetails"
+			],
+			[
+				"gotoeventde",
+				"goToEventDetails"
+			],
+			[
+				"openguestlist",
+				"openGuestList"
+			],
+			[
+				"save",
+				"saveRequestPromo"
+			],
+			[
+				"guest",
+				"openGuestList"
+			],
+			[
+				"guestlist",
+				"openGuestList"
+			],
+			[
+				"getapplications",
+				"getApplications"
+			],
+			[
+				"hide",
+				"hide"
+			],
+			[
+				"cancelreqpomo",
+				"cancelRequestPromo"
+			],
+			[
+				"phase",
+				"phase"
+			],
+			[
+				"remove",
+				"removeArtistFromRoster"
+			],
+			[
+				"resetform",
+				"resetForm"
+			],
+			[
+				"saveRequestPromo",
+				"saveRequestPromo"
+			],
+			[
+				"setupSelectedArtist",
+				"setupSelectedArtist"
+			],
+			[
+				"prepareSearchParameters",
+				"prepareSearchParameters"
+			],
+			[
+				"loadmore",
+				"loadMoreEvents"
+			],
+			[
+				"appl",
+				"applyFilters"
+			],
+			[
+				"savefitler",
+				"saveFilters"
+			],
+			[
+				"loadmo",
+				"loadMoreEvents"
+			],
+			[
+				"clickonapp",
+				"clickOnApp"
+			],
+			[
+				"getLinksForApp",
+				"getLinksForApp"
+			],
+			[
+				"goToPath",
+				"goToPath"
+			],
+			[
+				"redirectToHome",
+				"redirectToHome"
+			],
+			[
+				"goToOnboarding",
+				"goToOnboarding"
+			],
+			[
+				"clickonap",
+				"clickOnApp"
+			],
+			[
+				"goto",
+				"goToRequestTicket"
+			],
+			[
+				"reqticket",
+				"request-ticket"
+			],
+			[
+				"gotore",
+				"goToRequestTicket"
+			],
+			[
+				"prepare",
+				"prepareSearchParameters"
+			],
+			[
+				"curentuser",
+				"getCurrentUser"
+			],
+			[
+				"currenuser",
+				"currentUser"
+			],
+			[
+				"clearAndReload",
+				"clearAndReload"
+			],
+			[
+				"getEvent",
+				"getEvent"
+			],
+			[
+				"seeAllEvents",
+				"seeAllEvents"
+			],
+			[
+				"redirectToRoster",
+				"redirectToRoster"
+			],
+			[
+				"goToRequestTicket",
+				"goToRequestTicket"
+			],
+			[
+				"getAppForLink",
+				"getAppForLink"
+			],
+			[
+				"getlinkfora",
+				"getLinksForApp"
+			],
+			[
+				"getapp",
+				"getApplications"
+			],
+			[
+				"getIndexFileFor",
+				"getIndexFileFor"
+			],
+			[
+				"autoSelectCurrentApp",
+				"autoSelectCurrentApp"
+			],
+			[
+				"setcurap",
+				"setCurrentApp"
+			],
+			[
+				"reloadArtistRoster",
+				"reloadArtistRoster"
+			],
+			[
+				"redirec",
+				"redirectToRoster"
+			],
+			[
+				"parsedate",
+				"parseDate"
+			],
+			[
+				"parseDate",
+				"parseDate"
+			],
+			[
+				"resetFilterValues",
+				"resetFilterValues"
+			],
+			[
+				"groupEventsByYearMonth",
+				"groupEventsByYearMonth"
+			],
+			[
+				"getevents",
+				"getEvents"
+			],
+			[
+				"applyfil",
+				"applyFilters"
+			],
+			[
+				"redirectToRequestPromo",
+				"redirectToRequestPromo"
+			],
+			[
+				"setupse",
+				"setupSelectedArtist"
+			],
+			[
+				"reloadevent",
+				"reloadEventsForToday"
+			],
+			[
+				"cancelRequestPromo",
+				"cancelRequestPromo"
+			],
+			[
+				"shold",
+				"shouldShowWarnFor"
+			],
+			[
+				"searchArtist",
+				"searchArtist"
+			],
+			[
+				"savereq",
+				"saveRequestPromo"
+			],
+			[
+				"removeart",
+				"removeArtistFromRoster"
+			],
+			[
+				"addArtistToRoster",
+				"addArtistToRoster"
+			],
+			[
+				"addart",
+				"addArtistToRoster"
+			],
+			[
+				"add",
+				"addArtistToRoster"
+			],
+			[
+				"reloadroster",
+				"reloadArtistRoster"
+			],
+			[
+				"removeArtistFromRoster",
+				"removeArtistFromRoster"
+			],
+			[
+				"setcure",
+				"setCurrentApp"
+			],
+			[
+				"reloatoda",
+				"reloadEventsForToday"
+			],
+			[
+				"subscribeOne",
+				"subscribeOne"
+			],
+			[
+				"selectar",
+				"selectArtist"
+			],
+			[
+				"getevento",
+				"getEventsForToday"
+			],
+			[
+				"artists-roster",
+				"artists-roster"
+			],
+			[
+				"loa",
+				"loading"
+			],
+			[
+				"addartisroster",
+				"addArtistToRoster"
+			],
+			[
+				"unlockOrientation",
+				"unlockOrientation"
+			],
+			[
+				"reLayout",
+				"reLayout"
+			],
+			[
+				"searchsubm",
+				"searchSubmit"
+			],
+			[
+				"reqsear",
+				"requestSearchOff"
+			],
+			[
+				"logout",
+				"logout"
+			],
+			[
+				"adartisto",
+				"addArtistToRoster"
+			],
+			[
+				"adartist",
+				"addArtistToRoster"
+			],
+			[
+				"removear",
+				"removeArtistFromRoster"
+			],
+			[
+				"updateMobileConfiguration",
+				"updateMobileConfiguration"
+			],
+			[
+				"getCurrentUser",
+				"getCurrentUser"
+			],
+			[
+				"expandArtistSearch",
+				"expandArtistSearch"
+			],
+			[
+				"closeIfOpen",
+				"closeIfOpen"
+			],
+			[
+				"expandartise",
+				"expandArtistSearch"
+			],
+			[
+				"gotoli",
+				"goToLink"
+			],
+			[
+				"gotolink",
+				"goToLink"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

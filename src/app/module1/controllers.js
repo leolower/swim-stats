@@ -3,7 +3,8 @@
 
 function StatAddController(StatService) {
     var that = this;
-    that.newValue = '';
+    that.newMeters = '';
+    that.newDuration = '';
     that.order = {
         value: '',
         reverse: false
@@ -13,15 +14,22 @@ function StatAddController(StatService) {
 
     function updateChartDataPoints(stats) {
         that.chart.data.length = 0;
-        stats.forEach(function(stat) {
-            that.chart.data.push(ChartDataPoint(stat));
-        });
+        stats
+            .sort(function(a, b) {
+                a = new Date(a.date);
+                b = new Date(b.date);
+                return a > b ? -1 : a < b ? 1 : 0;
+            })
+            .forEach(function(stat) {
+                that.chart.data.push(ChartDataPoint(stat));
+            });
     }
 
     function ChartDataPoint(stat) {
         return {
-            'date': parseInt(moment(stat.date).format('X'), 10),
-            'meters': stat.value
+            date: new Date(stat.date),
+            meters: parseFloat(stat.meters),
+            duration: parseInt(stat.duration, 10) || 0
         };
     }
 
@@ -31,12 +39,52 @@ function StatAddController(StatService) {
     });
 
     this.chart = {
-        data: []
+        data: [],
+        options: {
+            axes: {
+                x: {
+                    key: 'date',
+                    labelFunction: function(value) {
+                        return moment(value).format('L');
+                    },
+                    type: 'linear'
+                },
+                y: {
+                    type: 'linear'
+                }
+            },
+            series: [{
+                y: 'meters',
+                color: 'steelblue',
+                thickness: '2px',
+                type: 'area',
+                striped: true,
+                label: 'Meters'
+            },{
+                y: 'duration',
+                color: '#FF6161',
+                thickness: '2px',
+                type: 'area',
+                striped: true,
+                label: 'Minutes'
+            }],
+            tooltip: {
+                mode: 'scrubber',
+                formatter: function(x, y, series) {
+                    return y + ' ' + series.label;
+                }
+            },
+            // drawLegend: true,
+            // drawDots: true,
+            // columnsHGap: 5
+        }
     };
 
-    this.addValue = function(newValue) {
-        StatService.create(new Date(), newValue).then(function(stat) {
-            that.newValue = '';
+    this.addValue = function(newMeters, newDuration) {
+        StatService.create(new Date(), newMeters, newDuration).then(function(stat) {
+            debugger
+            that.newMeters = '';
+            that.newDuration = '';
             updateChartDataPoints(that.stats);
         });
     };

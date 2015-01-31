@@ -1,5 +1,5 @@
 /* global angular */
-angular.module('swim-stats.module1', ['ui.router', 'ngDelay', 'stpa.morris'])
+angular.module('swim-stats.module1', ['ui.router', 'ngDelay', 'n3-line-chart'])
 
 /////////////////
 // CONTROLLERS //
