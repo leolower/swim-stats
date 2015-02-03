@@ -1,32 +1,55 @@
-<div class="module1">
-    <h1>Swim Stats</h1>
+<div class="l-content module1">
 
-    <form ng-submit="StatAddController.addValue(StatAddController.newMeters, StatAddController.newDuration)">
-        <input type="text" autofocus ng-model="StatAddController.newMeters" placeholder="meters today...">
-        <input type="text" ng-model="StatAddController.newDuration" placeholder="minutes today...">
+    <form class="pure-form" ng-submit="StatAddController.addValue(StatAddController.newMeters, StatAddController.newDuration)">
+        <fieldset>
+            <legend>Today's swim</legend>
 
-        <input type="submit" value="Save" />
+            <input type="text" autofocus ng-model="StatAddController.newMeters" placeholder="Meters">
+            <input type="text" ng-model="StatAddController.newDuration" placeholder="Minutes">
+
+            <button type="submit" class="pure-button pure-button-primary">Save</button>
+        </fieldset>
     </form>
 
     <linechart data="StatAddController.chart.data" options="StatAddController.chart.options" mode="" width="" height="300"></linechart>
 
 
-    <!-- <pre>{{StatAddController.chart.data | json}}</pre> -->
+    <table class="pure-table pure-table-striped">
+        <thead>
+            <tr>
+                <th ng-click="StatAddController.changeOrder('date')">
+                    Date
+                </th>
+                <th ng-click="StatAddController.changeOrder('meters')">
+                    Meters
+                </th>
+                <th ng-click="StatAddController.changeOrder('duration')">
+                    Duration
+                </th>
+                <th>
+                    Delete
+                </th>
+            </tr>
+        </thead>
 
+        <tbody>
+            <tr ng-repeat="stat in StatAddController.stats | orderBy:StatAddController.order.value:StatAddController.order.reverse track by stat.id">
+                <td>
+                    <input type="date" ng-model="stat.date" ng-change="StatAddController.updateStat(stat)" ng-delay="500">
+                </td>
+                <td>
+                    <input type="text" ng-model="stat.meters" ng-change="StatAddController.updateStat(stat)" ng-delay="500">
+                </td>
+                <td>
+                    <input type="text" ng-model="stat.duration" ng-change="StatAddController.updateStat(stat)" ng-delay="500">
+                </td>
+                <td>
+                    <a href="" ng-click="StatAddController.removeStat(stat)">X</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
-    <a href="" ng-click="StatAddController.clearStats()">clear</a>
+    <button class="pure-button pure-button-primary" ng-click="StatAddController.clearStats()">Clear</button>
 
-    <ul>
-        <li>
-            <label ng-click="StatAddController.changeOrder('date')">Date</label>
-            <label ng-click="StatAddController.changeOrder('meters')">Meters</label>
-            <label ng-click="StatAddController.changeOrder('duration')">Duration</label>
-        </li>
-        <li ng-repeat="stat in StatAddController.stats | orderBy:StatAddController.order.value:StatAddController.order.reverse track by stat.id">
-            <input type="date" ng-model="stat.date" ng-change="StatAddController.updateStat(stat)" ng-delay="500">
-            <input type="text" ng-model="stat.meters" ng-change="StatAddController.updateStat(stat)" ng-delay="500">
-            <input type="text" ng-model="stat.duration" ng-change="StatAddController.updateStat(stat)" ng-delay="500">
-            <a href="" ng-click="StatAddController.removeStat(stat)">X</a>
-        </li>
-    </ul>
 </div>

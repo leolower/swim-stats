@@ -6,6 +6,7 @@
     "url": "http://github.com/leolower/swim-stats"
   },
   "author": "leolower@gmail.com",
+  "start": "gulp",
   "license": "GPL",
   "dependencies": {},
   "devDependencies": {
@@ -29,6 +30,7 @@
     "karma-chrome-launcher": "^0.1.7",
     "karma-jasmine": "^0.3.5",
     "karma-phantomjs-launcher": "^0.1.4",
+    "live-server": "^0.6.3",
     "main-bower-files": "^2.5.0"
   }
 }

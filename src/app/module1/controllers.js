@@ -82,7 +82,6 @@ function StatAddController(StatService) {
 
     this.addValue = function(newMeters, newDuration) {
         StatService.create(new Date(), newMeters, newDuration).then(function(stat) {
-            debugger
             that.newMeters = '';
             that.newDuration = '';
             updateChartDataPoints(that.stats);

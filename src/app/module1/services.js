@@ -44,7 +44,6 @@ function StatService($http, $q) {
         },
         create: function(date, meters, duration) {
             var deferred = $q.defer();
-            debugger
 
             var newStat = Stat(date, meters, duration);
 

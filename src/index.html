@@ -1,20 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title> swim-stats </title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
+    <link rel="stylesheet" href="http://purecss.io/combo/1.17.30?/css/layouts/pricing.css">
+
     <link type="text/css" rel="stylesheet" href="css/vendor.css">
     <link type="text/css" rel="stylesheet" href="css/swim-stats.css">
 </head>
 <body ng-app="swim-stats">
 
+    <div class="banner">
+        <h1 class="banner-head">
+            Swim Stats
+        </h1>
+    </div>
+
     <div ui-view></div>
+
+    <div class="footer l-box">
+        <p>
+            Header image courtesy of <a href='http://unsplash.com/'>Unsplash</a>.
+        </p>
+    </div>
 
     <script src="js/vendor.js"></script>
     <script src="js/swim-stats.js"></script>
     <script src="js/templates.js"></script>
 </body>
 </html>
+
+
+
+
