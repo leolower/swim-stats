@@ -8,7 +8,7 @@
   "author": "leolower@gmail.com",
   "scripts": {
     "start": "node server.js",
-    "postinstall": "node node_modules/.bin/gulp dist"
+    "postinstall": "gulp dist"
   },
   "license": "GPL",
   "dependencies": {
