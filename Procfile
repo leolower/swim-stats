@@ -1,1 +1,1 @@
-web: npm install && node_modules/.bin/gulp dist && node server.js
+web: node_modules/.bin/gulp dist && node server.js
