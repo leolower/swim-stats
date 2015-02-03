@@ -34,7 +34,6 @@ var testFiles = bower_files.concat([
 
 
 
-
 gulp.task('default', 'DEFAULT TASK: dev.', ['dev']);
 
 gulp.task('dev', 'Builds, runs the server and watches for changes to rebuild.', [
@@ -128,4 +127,8 @@ gulp.task('dist', 'Builds the app and prepares it for deployment.', ['build'], f
         .pipe(gulp.dest('dist/css'))
     ).on('end', cb);
 
+});
+
+gulp.task('heroku:production', ['dist'], function() {
+    return;
 });
