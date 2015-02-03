@@ -4,7 +4,6 @@
 var connect = require('connect');
 var serveStatic = require('serve-static');
 
-
 var directory = './dist';
 
 connect()
