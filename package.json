@@ -6,7 +6,9 @@
     "url": "http://github.com/leolower/swim-stats"
   },
   "author": "leolower@gmail.com",
-  "start": "gulp",
+  "scripts": {
+      "start": "node server.js"
+  },
   "license": "GPL",
   "dependencies": {},
   "devDependencies": {
