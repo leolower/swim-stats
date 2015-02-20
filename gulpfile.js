@@ -15,6 +15,7 @@ var mainBowerFiles = require('main-bower-files');
 var spawn = require('child_process').spawn;
 var templateCache = require('gulp-angular-templatecache');
 var liveServer = require("live-server");
+var karma = require('gulp-karma');
 
 var gulp = require('gulp-help')(require('gulp'));
 
@@ -131,4 +132,17 @@ gulp.task('dist', 'Builds the app and prepares it for deployment.', ['build'], f
 
 gulp.task('heroku:production', ['dist'], function() {
     return;
+});
+
+
+
+gulp.task('test', 'Runs the unit tests using Karma.', function() {
+    return gulp.src(testFiles)
+        .pipe(karma({
+            configFile: 'karma.conf.js',
+            action: 'run'
+        }))
+        .on('error', function(err) {
+            throw err;
+        });
 });

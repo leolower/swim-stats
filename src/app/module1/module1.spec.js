@@ -20,10 +20,8 @@ describe('swim-stats.module1', function() {
         }));
 
         it('should initialize the ctrl variables', function() {
-            expect(ctrl.name).toBe('StatAddController');
-            expect(typeof ctrl.items).toBe('object');
-            expect(StatService).toBeDefined();
-            expect(ctrl.items[0]).toBe(some_array[0]);
+            expect(ctrl.newMeters).toBe('');
+            expect(ctrl.newDuration).toBe('');
         });
     });
 
